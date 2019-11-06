@@ -1,0 +1,100 @@
+body{
+  background-color: #F7F9FC;
+  font-family: 'Montserrat', sans-serif;
+  color: #575F7D;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+h1{
+  color: #086788;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 35px;
+  line-height:50px ;
+}
+
+h2{
+  color: #086788;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  line-height:80px ;
+  margin-top: -10px;
+}
+
+p{
+  padding-bottom:40px;
+}
+
+a{
+  color: #735CDD;
+  text-decoration: none;
+}
+
+a:hover{
+  opacity: 0.7;
+  position: relative;
+  top: -5px;
+}
+
+.img_circle{
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.card_white{
+   background-color: white;
+   padding: 40px;
+   margin: 20px 0;
+   text-align: center;
+   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+   border-radius: 14px;
+}
+
+.container{
+  width: 700px;
+  margin: 40px auto;
+}
+
+.btn_blue{
+  background-color: #086788;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 5px;
+  word-spacing: 2px;
+  margin-top: 10px;
+}
+
+.list_inline{
+  list-style: none;
+  padding: 0;
+}
+
+.list_inline li{
+  display: inline-block;
+  padding: 10px;
+}
+
+.social_icon{
+  background-color: none;
+  color: #086788;
+  font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
